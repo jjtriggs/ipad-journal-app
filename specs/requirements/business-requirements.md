@@ -5,37 +5,37 @@
 ### Primary Goals
 1. **Market Entry**: Establish presence in the premium digital journaling market
 2. **User Acquisition**: Achieve 10,000 downloads within 6 months of launch
-3. **Revenue Generation**: Reach $5,000 MRR within 12 months
+3. **Revenue Generation**: Reach £4,000 MRR within 12 months
 4. **Brand Building**: Position as the premium iPad journaling solution
 
 ### Key Performance Indicators (KPIs)
 - Monthly Active Users (MAU): 2,500 by month 6
 - Premium Conversion Rate: 25% within 30 days
-- Customer Lifetime Value (CLV): $45
+- Customer Lifetime Value (CLV): £35
 - App Store Rating: 4.5+ stars with 100+ reviews
 - Template Store Revenue: 30% of total revenue
 
 ## Market Analysis
 
 ### Total Addressable Market (TAM)
-- Global digital journaling app market: $1.8B (2024)
-- iPad users interested in productivity/wellness: ~15M
-- Premium journaling app users: ~500K
+- UK digital journaling app market: £120M (2024)
+- UK iPad users interested in productivity/wellness: ~2M
+- UK premium journaling app users: ~75K
 
 ### Target Market Segments
 1. **Professional Growth Seekers** (40% of target)
-   - Age: 28-45, Income: $75K+
-   - Willingness to pay: High ($5-15/month)
+   - Age: 28-45, Income: £50K+
+   - Willingness to pay: High (£4-12/month)
    - Acquisition channels: LinkedIn, productivity blogs
 
 2. **Mental Health Focused** (35% of target)
    - Age: 25-40, Gender: 65% female
-   - Willingness to pay: Medium ($3-8/month)
+   - Willingness to pay: Medium (£2.50-6/month)
    - Acquisition channels: Instagram, wellness communities
 
 3. **Executive/Entrepreneur** (25% of target)
-   - Age: 35-55, Income: $150K+
-   - Willingness to pay: Very high ($10-25/month)
+   - Age: 35-55, Income: £100K+
+   - Willingness to pay: Very high (£8-20/month)
    - Acquisition channels: Business networks, Apple keynotes
 
 ## Revenue Model
@@ -48,7 +48,7 @@ Free Tier:
 - Basic Apple Pencil support
 - Limited to 1 active journal
 
-Premium Monthly ($4.99):
+Premium Monthly (£3.99):
 - All journal templates
 - iCloud sync across devices
 - Advanced handwriting features
@@ -56,7 +56,7 @@ Premium Monthly ($4.99):
 - Export capabilities
 - Priority customer support
 
-Premium Annual ($39.99 - 33% savings):
+Premium Annual (£29.99 - 25% savings):
 - All Premium Monthly features
 - Exclusive annual templates
 - Early access to new features
@@ -66,10 +66,10 @@ Premium Annual ($39.99 - 33% savings):
 ### Template Store Revenue
 ```
 Template Pricing Strategy:
-- Individual Templates: $1.99-$4.99
-- Template Bundles: $9.99-$19.99
-- Expert Series: $14.99-$29.99
-- Seasonal Collections: $7.99-$12.99
+- Individual Templates: £1.49-£3.99
+- Template Bundles: £7.99-£15.99
+- Expert Series: £11.99-£22.99
+- Seasonal Collections: £5.99-£9.99
 
 Revenue Split: 70% to creator, 30% platform fee
 ```
@@ -118,11 +118,11 @@ Phase 3 (Months 5-6): Premium Features
 ```
 
 ### Marketing Channels
-1. **App Store Optimization**: Target keywords like "journal", "Apple Pencil", "productivity"
+1. **App Store Optimisation**: Target keywords like "journal", "Apple Pencil", "productivity"
 2. **Content Marketing**: Blog posts about journaling benefits, personal growth
-3. **Influencer Partnerships**: Productivity coaches, mental health advocates
+3. **Influencer Partnerships**: UK productivity coaches, mental health advocates
 4. **Apple Features**: Pitch for App Store featuring, Apple Pencil showcases
-5. **Community Building**: Reddit, Discord communities for journaling enthusiasts
+5. **Community Building**: UK Reddit communities, Discord groups for journaling enthusiasts
 
 ### Pricing Strategy
 - **Premium Positioning**: Price above commodity journaling apps
@@ -184,7 +184,7 @@ Phase 3 (Months 5-6): Premium Features
 ### Month 6 Targets
 - 10,000 total downloads
 - 1,500 premium subscribers
-- $3,000 monthly recurring revenue
+- £2,400 monthly recurring revenue
 - Featured in App Store productivity section
 
 ## Regulatory and Compliance
@@ -196,8 +196,9 @@ Phase 3 (Months 5-6): Premium Features
 - Age-appropriate content rating
 
 ### Privacy Regulations
-- GDPR compliance for European users
-- CCPA compliance for California users
+- UK GDPR compliance (primary market)
+- GDPR compliance for EU users
+- Data Protection Act 2018 compliance
 - Clear data handling documentation
 - User consent for any data collection
 

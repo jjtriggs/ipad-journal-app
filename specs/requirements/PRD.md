@@ -53,7 +53,7 @@ Create the premier iPad journaling experience that feels as natural as pen and p
 - Journal entries per active user per week > 3
 
 ### Business Metrics
-- User acquisition cost < $15
+- User acquisition cost < £12
 - Premium conversion rate > 25%
 - Template store conversion rate > 15%
 - Net Promoter Score > 50
@@ -122,13 +122,13 @@ Create the premier iPad journaling experience that feels as natural as pen and p
 
 ### Freemium Structure
 - **Free Tier**: 3 basic templates, local storage only, basic handwriting
-- **Premium Monthly ($4.99)**: All templates, cloud sync, advanced features
-- **Premium Annual ($39.99)**: Full access + exclusive templates
+- **Premium Monthly (£3.99)**: All templates, cloud sync, advanced features
+- **Premium Annual (£29.99)**: Full access + exclusive templates
 
 ### Template Store
-- Individual premium templates: $1.99-$4.99
-- Template bundles: $9.99-$19.99
-- Expert-designed series: $14.99-$29.99
+- Individual premium templates: £1.49-£3.99
+- Template bundles: £7.99-£15.99
+- Expert-designed series: £11.99-£22.99
 
 ## Success Criteria for MVP
 

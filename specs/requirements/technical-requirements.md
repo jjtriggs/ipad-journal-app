@@ -115,7 +115,7 @@ Core Data Stack:
 - iPad-only for MVP (no iPhone version initially)
 - Requires Apple Pencil for full experience
 - Minimum iOS 16 for latest PencilKit features
-- English language only for MVP
+- UK English language only for MVP
 
 ### Business Constraints
 - Must launch within 6 months
